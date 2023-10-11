@@ -1,0 +1,3 @@
+(test
+ (name lambda_calculus)
+ (libraries lambda_calculus ounit2))
